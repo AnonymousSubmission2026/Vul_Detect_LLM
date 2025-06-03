@@ -2,7 +2,7 @@
 
 # Detecting Vulnerable Functions from Repositories (Repo-level Vulnerability Detection)
 
-## Download Replication Package from Zendo
+## Download Replication Package from Zenodo
 
 Due to the large size of the datasets, we upload the replication package to Zenodo, and please refer to the following link to download it first:
 

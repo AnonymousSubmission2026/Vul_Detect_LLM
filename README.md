@@ -1,6 +1,6 @@
 
 
-# Detecting Vulnerable Functions from Repositories (Repo-level Vulnerability Detection)
+# Detecting Vulnerable Functions from Repositories with LLMs
 
 ## Download Replication Package from Zenodo
 

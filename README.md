@@ -2,6 +2,15 @@
 
 # Detecting Vulnerable Functions from Repositories (Repo-level Vulnerability Detection)
 
+## Download Replication Package from Zendo
+
+Due to the large size of the datasets, we upload the replication package to Zenodo, and please refer to the following link to download it first:
+
+https://zenodo.org/records/15587888
+
+```
+cd detect_vul_from_repo
+```
 
 ## Fine-tuning lightweight LLMs
 

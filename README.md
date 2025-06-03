@@ -105,9 +105,9 @@ CodeQL: v2.10.2
 Contrast 1.0.10
 Horusec v2.8.0
 Insider v3.0.0
-SBwFSB v1.12.0
+SpotBugs v4.7.0, v1.12.0
 Semgrep v0.108.0
-SonarQube v9.5.0
+SonarQube v9.5.0, v4.1.0
 Bearer v1.43.0
 Badnit v1.7.8
 Dlint v0.14.0

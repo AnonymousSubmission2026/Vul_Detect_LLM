@@ -2,7 +2,7 @@
 
 # Detecting Vulnerable Functions from Repositories with LLMs
 
-![Our Repo-level Vul Detection](repo-level-vs-func-level-compare.png)
+<img src="repo-level-vs-func-level-compare.png" alt="Our Repo-level Vul Detection" width="70%" />
 
 ## Download Replication Package from Zenodo
 

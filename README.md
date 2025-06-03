@@ -9,6 +9,7 @@ Due to the large size of the datasets, we upload the replication package to Zeno
 https://zenodo.org/records/15587888
 
 ```
+unzip detect_vul_from_repo.zip
 cd detect_vul_from_repo
 ```
 
